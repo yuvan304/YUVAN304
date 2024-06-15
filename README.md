@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Yuvanth Sai Tirumalasetti
 
-A passionate Devops Engineer from India
+A passionate Software Developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvan304&label=Profile%20views&color=0e75b6&style=flat" alt="yuvan304" /> </p>
 
